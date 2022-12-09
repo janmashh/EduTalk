@@ -87,6 +87,17 @@ header::after {
     color: #fff;
 }
 
+.link a{
+    position:absolute;
+    margin-top: 185px;
+    margin-left: 1010px;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #000;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
 .gif{
     position:absolute;
     display:block;
@@ -287,4 +298,3 @@ header::after {
     border-radius: 20px;
     padding: 10px;
 }
-
